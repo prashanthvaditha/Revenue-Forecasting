@@ -2,7 +2,7 @@
 
 ### Overview
 
-This notebook demonstrates time series demand forecasting using ARIMA (Autoregressive Integrated Moving Average), SARIMA (Seasonal ARIMA), and SARIMAX (SARIMA with Exogenous Regressors) models. It uses a dataset of daily revenue, discount rates, and coupon rates to predict future revenue.
+This notebook demonstrates time series Revenue forecasting using ARIMA (Autoregressive Integrated Moving Average), SARIMA (Seasonal ARIMA), and SARIMAX (SARIMA with Exogenous Regressors) models. It uses a dataset of daily revenue, discount rates, and coupon rates to predict future revenue.
 
 ### Contents
 
